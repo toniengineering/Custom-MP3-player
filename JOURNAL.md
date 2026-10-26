@@ -16,7 +16,7 @@
 
 1. [2026-10-25 – Work session](#2026-10-25-work-session)
 2. [2026-10-25 – I did some research on how to and some of the things I wanted like more IO pins so for that I looked at the ADS 1115 ADC and I wanted to up the power a bit by using the SN74HCT125N. I also learned how](#2026-10-25-i-did-some-research-on-how-to-and-some-of-the-thi)
-3. [2026-10-25 – Made my bom in sheets and got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the part](#2026-10-25-made-my-bom-in-sheets-and-got-all-the-parts-i-nee)
+3. [2026-10-25 – Got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the parts I needed As well as a co](#2026-10-25-got-all-the-parts-i-needed-for-my-case-i-did-end-)
 4. [2026-10-25 – I added four mounting holes to my schematic and then I finished routing my pcb. Although in the tutorial the leds are in the switches so I put mines there but it is a silkscreen warming and I'm assumi](#2026-10-25-i-added-four-mounting-holes-to-my-schematic-and-t)
 
 ## Design
@@ -39,11 +39,11 @@ I did some research on how to and some of the things I wanted like more IO pins 
 
 ![Screenshot 2026-10-25 183451](https://halflife.hackclub-assets.com/sessions/bw08TUgM8HnztV295Al7cWDmymEOui3j/3d71ed08f100eb31b673cfb3dca22ebfb7e025a5c14a3a1d0ff183aad894e5c9.png)
 
-### 2026-10-25 – Made my bom in sheets and got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the part
+### 2026-10-25 – Got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the parts I needed As well as a co
 
 **2.17h**
 
-Made my bom in sheets and got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the parts I needed As well as a couple of tutorials that I kind of followed but didn't film. I don't know if this counts but I would pause my timer when I went to look something up since I only did dual screens for a bit.
+Got all the parts I needed for my case I did end up using some gemini on my project to help me figure how to use and route some parts of my board and to find some of the parts I needed As well as a couple of tutorials that I kind of followed but didn't film. I don't know if this counts but I would pause my timer when I went to look something up since I only did dual screens for a bit.
 ![Screenshot 2026-10-25 211302](https://halflife.hackclub-assets.com/sessions/bw08TUgM8HnztV295Al7cWDmymEOui3j/fa92660e6f7c3ba7188b2302b0682162969684df28b747143ec52260dd87b4f4.png)
 
 ![Screenshot 2026-10-25 211310](https://halflife.hackclub-assets.com/sessions/bw08TUgM8HnztV295Al7cWDmymEOui3j/d829a7ce01130c5536d63fe6dfaa1e8b58c30d179c65b139812c4d987ac0638f.png)
